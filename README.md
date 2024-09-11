@@ -1,5 +1,7 @@
-# A breast examination app for women and related things.
+
 # CheckYourBreast
+
+A breast examination app for women and related things.
 
 Breast self-examination (BSE) is a routine examination that should be carried out at the same time each month to physically check for any lumps or other changes. It entails two important components, i.e. looking and feeling. With this method, women should learn what is normal for them, so that they can recognise any changes immediately.
 Though scientists have concluded that breast self examination is not an effective method of reducing mortality from breast cancer and the vast majority of changes found during breast self-examination are not cancerous, in many countries it may be the only alternative and women should be encouraged to be aware of what is normal breast and recognize changes in their breast, size, shape, skin and nipples as soon as possible by self-examination once in a month or two basis. Most of the breast lumps are detected when women take bath.
