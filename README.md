@@ -14,6 +14,8 @@ W.H.O says that National Cancer Control programmes should not recommend mass scr
 Here is a screenshot of the project:
 
 ![Project Screenshot](images/screenshot.png)
+C:\Users\HP\OneDrive\Desktop\c++basics\Documents\Downloads\CYB1.jpg
+
 
 ## Installation
 
