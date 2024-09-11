@@ -17,6 +17,8 @@ Here is a screenshot of the project:
 ![CYB3](https://github.com/user-attachments/assets/bbba6920-08d0-476f-9c21-0f5cefd2fff2)
 ![CYB4](https://github.com/user-attachments/assets/15b9f045-9f7a-4b06-ad89-988a4121f436)
 ![CYB5](https://github.com/user-attachments/assets/ab7abaee-f9b8-4676-bc61-c9b9cc0121b7)
+![CYB6](https://github.com/user-attachments/assets/c0689b36-489e-441e-ade5-c4364f6d4ee1)
+
 
 
 
