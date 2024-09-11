@@ -6,15 +6,19 @@ W.H.O says that National Cancer Control programmes should not recommend mass scr
 
 ## Features
 
-- Easy to use
-- Great for documentation
+- Breast Self Examination
 
 ## Screenshots
 
 Here is a screenshot of the project:
 
-![Project Screenshot](images/screenshot.png)
-C:\Users\HP\OneDrive\Desktop\c++basics\Documents\Downloads\CYB1.jpg
+![CYB1](https://github.com/user-attachments/assets/09145d50-1478-4f82-8e82-98a96ccf789c)
+![CYB2](https://github.com/user-attachments/assets/df3739ce-b0b5-4142-9086-6a1c23934790)
+![CYB3](https://github.com/user-attachments/assets/bbba6920-08d0-476f-9c21-0f5cefd2fff2)
+![CYB4](https://github.com/user-attachments/assets/15b9f045-9f7a-4b06-ad89-988a4121f436)
+![CYB5](https://github.com/user-attachments/assets/ab7abaee-f9b8-4676-bc61-c9b9cc0121b7)
+
+
 
 
 ## Installation
